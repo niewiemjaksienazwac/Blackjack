@@ -1,0 +1,13 @@
+.stay{
+  background-color: rgb(218, 23, 23);
+  color: white;
+}
+
+.hit{
+    background-color: rgb(208, 228, 27);
+}
+
+.game{
+  background-color: blue;
+  color: white;
+}
